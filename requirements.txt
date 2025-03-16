@@ -1,0 +1,5 @@
+pandas
+ipykernel
+seaborn
+matplotlib
+prophet
